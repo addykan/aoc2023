@@ -1,0 +1,22 @@
+# .ocamlformat
+profile = default
+version = 0.26.1
+
+# # Width of the page
+# width = 80
+
+# # Use 2 spaces for indentation
+# indent = 2
+
+# # Align variant constructors
+# align_variant_constructors = true
+
+# # Space around operators
+# space_around_colon = false
+# space_around_equal = true
+# space_around_arrow = true
+# space_after_comma = true
+# space_after_semicolon = true
+
+# # Use single-line comments when possible
+# single_line_comments = true
